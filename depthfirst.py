@@ -14,7 +14,7 @@ def dfs(visited, graph, node):  #function for dfs
         print (node)
         visited.add(node)
         for neighbour in graph[node]:
-            dfs(visited, graph, neighbour)
+            dfs(visited, graph, neighbour) #recursive function
 
 # Driver Code
 print("Following is the Depth-First Search")

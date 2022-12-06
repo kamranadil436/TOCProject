@@ -1,0 +1,5 @@
+5 is being in the calling function as the root node.
+SET data structure is used.
+visited.add is used in SET because append can't be used.
+add print after line 16 in DFS
+Djkastra explain from real world application in networking. Computer network assignment, routing.
